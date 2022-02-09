@@ -1,2 +1,6 @@
 # Hola-mundo
-mi primer repositorio
+mi primer repositorio de prueba
+
+
+Autor: Whitemess
+Fecha: 8 feb 2022
