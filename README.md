@@ -1,5 +1,5 @@
-# Hola-mundo
-mi primer repositorio de prueba
+# Hola Mundo
+mi primer repositorio xD.
 
 
 Autor: Whitemess
